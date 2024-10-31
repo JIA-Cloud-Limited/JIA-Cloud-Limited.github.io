@@ -519,3 +519,4 @@ verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 xandr.com, 7353, RESELLER
 xandr.com, 15769, RESELLER
 xandr.com, 13799, RESELLER
+google.com, pub-7787548515499978, DIRECT, f08c47fec0942fa0
